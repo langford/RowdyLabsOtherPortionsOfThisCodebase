@@ -1,0 +1,6 @@
+framework module RowdyLabsOtherPortionsOfThisCodebase {
+  umbrella header "RowdyLabsOtherPortionsOfThisCodebase-umbrella.h"
+
+  export *
+  module * { export * }
+}

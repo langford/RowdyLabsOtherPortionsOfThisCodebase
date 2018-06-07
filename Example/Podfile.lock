@@ -1,0 +1,16 @@
+PODS:
+  - RowdyLabsOtherPortionsOfThisCodebase (0.1.0)
+
+DEPENDENCIES:
+  - RowdyLabsOtherPortionsOfThisCodebase (from `../`)
+
+EXTERNAL SOURCES:
+  RowdyLabsOtherPortionsOfThisCodebase:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RowdyLabsOtherPortionsOfThisCodebase: 907dd5043da1f74e7646151ac6a7131ae5800edc
+
+PODFILE CHECKSUM: cbd32345e9513847046600ff8966a28dccbd1980
+
+COCOAPODS: 1.4.0.beta.2
